@@ -15,3 +15,4 @@ def new(a,b):
 	return a*c
 
 print(new(2,3))
+print('heheheheheheh')
